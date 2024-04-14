@@ -1,0 +1,4 @@
+name: MinecraftDropperAI
+version: '${project.version}'
+main: com.pandapulsestudios.minecraftdropperai.MinecraftDropperAI
+api-version: '1.20'
